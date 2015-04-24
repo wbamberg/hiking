@@ -2,9 +2,8 @@
 
 body {
   padding:50px;
-  font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font:14px/1.5 Open Sans, sans-serif;
   color:black;
-  font-weight:300;
   max-width: 50em;
 }
 
@@ -25,16 +24,8 @@ h1 {
   font-size:28px;
 }
 
-h2 {
-  color:#393939;
-}
-
-h3, h4, h5, h6 {
-  color:#494949;
-}
-
 h3 {
-  background-color: rgba(212, 221, 228, 0.15);
+  background-color: rgba(179, 189, 197, 0.2);
   padding: 3px;
 }
 
