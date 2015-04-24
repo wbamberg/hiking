@@ -1,3 +1,6 @@
+---
+title: Whistler Hiking
+---
 
 ## Some general stuff ##
 
@@ -8,10 +11,6 @@ Usually there's still snow in the alpine in June. This can mean a couple of thin
 This winter there's been much less snow than usual, so most hikes will probably be snow-free, even in the alpine. But a lot still depends on what happens with the weather in May and June: if it warms up, the snow melts fast, but otherwise it can hang around.
 
 So, check what the snow conditions are like for the hike you're considering.
-
----
-title: Whistler Hiking
----
 
 ### Transportation ###
 
