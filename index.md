@@ -65,7 +65,7 @@ It's 11K with about 400 metres elevation gain. It used to be a bit of a rough tr
 
 [https://www.flickr.com/photos/will_and_andrea/sets/72157635505967148/](https://www.flickr.com/photos/will_and_andrea/sets/72157635505967148/)
 
-This is one of the most popular hikes in the area. You need to drive 16K up a dirt road from Squamish, then boring hike up for about an hour through the trees. After that you're walking along a ridge to a pair of small lakes, a hut, and a campsite. If you have time and energy there are some extra places you can visit from this point. Then turn around and come back the same way
+This is one of the most popular hikes in the area. You need to drive 16K up a dirt road from Squamish, then it's a boring hike up for about an hour through the trees. After that you're walking along a ridge to a pair of small lakes, a hut, and a campsite. If you have time and energy there are some extra places you can visit from this point. Then turn around and come back the same way
 
 It's about 22K, but only about 500 metres elevation gain.
 
