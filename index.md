@@ -39,7 +39,7 @@ You can find out lots of information, especially on current conditions, here: ht
 
 ## Some ideas ##
 
-Here are a few hikes I've done, that I like and that are within reach of Whistler. It's hard to judge "difficulty", since that's so subjective. But I'd say that the first two are the easiest, and they are both hikes I'd be happy to take anyone who wasn't a total stranger to physical activity (although of course it's still necessary to have proper boots/clothes/water/food/etc). The rest are all more demanding. Only one (Brandywine) is rough/steep enough to be considered scrambling rather than hiking. All distances are there-and-back.
+Here are a few hikes I've done, that I like and that are within reach of Whistler. It's hard to judge "difficulty", since that's so subjective. But I'd say that the first two are the easiest, and they are both hikes which I think anyone who's not a total stranger to physical activity could enjoy (although of course it's still necessary to have proper boots/clothes/water/food/etc). The rest are all more demanding. Only one (Brandywine) is rough/steep enough to be considered scrambling rather than hiking. All distances are there-and-back.
 
 ### Joffre Lakes ###
 
@@ -57,7 +57,7 @@ It's 11K with about 400 metres elevation gain. It used to be a bit of a rough tr
 #### Cons: ####
 
 * very popular
-* IMO this hike is overrated, and isn't that interesting or spectacular. It's nice enough though.
+* while the lakes are lovely, you'll see more spectacular views on other hikes
 
 ### Elfin Lakes ###
 
@@ -73,7 +73,7 @@ It's about 22K, but only about 500 metres elevation gain.
 #### Cons: ####
 * really busy at weekends
 * no paved road access
-* a fair distance from Whistler (maybe 1.5 hours drive)
+* a fair distance from Whistler (more than an hour's drive)
 
 ### Musical Bumps/Russet Lake/Singing Pass ###
 
@@ -96,7 +96,7 @@ It's long (maybe 28K), with substantial cumulative elevation gain (maybe 1500 me
 
 http://www.trailpeak.com/trail-Brandywine-Mountain-near-Whistler-BC-527
 
-The trail gains 500m, steeply, through trees, then you pop out in a little subalpine valley. Keep going to near the end of the valley, then head up the left-hand side over heather and then talus and/or snow, getting pretty steep. Eventually you get on to a ridge that you can follow to the summit.
+The trail gains 500m, steeply, through trees, then you pop out in a little subalpine valley. Keep going to near the end of the valley, then head up the left-hand side over heather and then talus and/or snow. It gets pretty steep in this bit. Eventually you top out on to a ridge that you can follow to the summit.
 
 It's about 12K, but gains probably around 1500 metres. If you have 4WD, and depending on the road condition, you can drive almost up to the valley, saving a bunch of effort.
 
@@ -120,7 +120,7 @@ It's about 30K there and back, with about 1500 metres elevation gain. Long - it 
 
 #### Pros: ####
 * really amazing views from the top
-* subalpine meadows
+* subalpine meadows! wildflowers!
 * paved road access
 
 #### Cons: ####
