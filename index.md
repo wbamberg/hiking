@@ -35,7 +35,7 @@ Make sure you have enough. Especially on a hot day above the treeline, you need 
 
 ### Resources ###
 
-You can find out lots of information, especially on current conditions, here: http://forums.clubtread.com/. There's a thread specifically on conditions updates: http://forums.clubtread.com/8-british-columbia-mainland/48858-bc-recent-conditions-reports.html.
+You can find out lots of information, especially on current conditions, here: [http://forums.clubtread.com/](http://forums.clubtread.com/). There's a thread specifically on conditions updates: [http://forums.clubtread.com/8-british-columbia-mainland/48858-bc-recent-conditions-reports.html](http://forums.clubtread.com/8-british-columbia-mainland/48858-bc-recent-conditions-reports.html).
 
 ## Some ideas ##
 
@@ -43,7 +43,7 @@ Here are a few hikes I've done, that I like and that are within reach of Whistle
 
 ### Joffre Lakes ###
 
-http://trailpeak.com/index.jsp?con=trail&val=178
+[http://trailpeak.com/index.jsp?con=trail&val=178](http://trailpeak.com/index.jsp?con=trail&val=178)
 
 Easy hike that links up three beautiful turquoise lakes. The top lake is tucked in an alpine bowl with a glacier. If you have the time, energy, and skills, you can continue from there to climb one of the mountains above it.
 
@@ -61,7 +61,9 @@ It's 11K with about 400 metres elevation gain. It used to be a bit of a rough tr
 
 ### Elfin Lakes ###
 
-http://trailpeak.com/index.jsp?con=trail&val=173
+[http://trailpeak.com/index.jsp?con=trail&val=173](http://trailpeak.com/index.jsp?con=trail&val=173)
+
+[https://www.flickr.com/photos/will_and_andrea/sets/72157635505967148/](https://www.flickr.com/photos/will_and_andrea/sets/72157635505967148/)
 
 This is one of the most popular hikes in the area. You need to drive 16K up a dirt road from Squamish, then boring hike up for about an hour through the trees. After that you're walking along a ridge to a pair of small lakes, a hut, and a campsite. If you have time and energy there are some extra places you can visit from this point. Then turn around and come back the same way
 
@@ -77,7 +79,9 @@ It's about 22K, but only about 500 metres elevation gain.
 
 ### Musical Bumps/Russet Lake/Singing Pass ###
 
-http://trailpeak.com/index.jsp?con=trail&val=3311
+[http://trailpeak.com/index.jsp?con=trail&val=3311](http://trailpeak.com/index.jsp?con=trail&val=3311)
+
+[https://www.flickr.com/photos/will_and_andrea/sets/72157624772401565/](https://www.flickr.com/photos/will_and_andrea/sets/72157624772401565/)
 
 You start from Whistler village. Hike up the Singing Pass trail (maybe 2-3 hours of pretty boring, gradual ascent through the forest), get out of the trees at Singing Pass, keep going up until you get to Russet Lake, then back down to Singing Pass, then back over a series of minor summits called the Musical Bumps, ending up a the top of Whistler Mountain, whence you can ride the gondola back down to the village. Or, you can do it in reverse, riding up the gondola to the top of Whistler Mountain, and hiking back down Singing Pass trail.
 
@@ -94,7 +98,9 @@ It's long (maybe 28K), with substantial cumulative elevation gain (maybe 1500 me
 
 ### Brandywine Mountain ###
 
-http://www.trailpeak.com/trail-Brandywine-Mountain-near-Whistler-BC-527
+[http://www.trailpeak.com/trail-Brandywine-Mountain-near-Whistler-BC-527](http://www.trailpeak.com/trail-Brandywine-Mountain-near-Whistler-BC-527)
+
+[https://www.flickr.com/photos/will_and_andrea/sets/72157631033989550/](https://www.flickr.com/photos/will_and_andrea/sets/72157631033989550/)
 
 The trail gains 500m, steeply, through trees, then you pop out in a little subalpine valley. Keep going to near the end of the valley, then head up the left-hand side over heather and then talus and/or snow. It gets pretty steep in this bit. Eventually you top out on to a ridge that you can follow to the summit.
 
@@ -112,7 +118,7 @@ Parts of this trip are steep and considered a scramble rather than a hike. If th
 
 ### Panorama Ridge (Rubble Creek there and back) ###
 
-http://trailpeak.com/index.jsp?con=trail&val=537
+[http://trailpeak.com/index.jsp?con=trail&val=537](http://trailpeak.com/index.jsp?con=trail&val=537)
 
 This hike starts and ends at the Rubble Creek trailhead, just off the Sea to Sky highway. First you slog up 6K of switchbacks, then out into some wide-open meadows, covered with wildflowers in season. There are various places you can go from here, but maybe the best option is up Panorama Ridge, which overlooks Garibaldi Lake. The views are really amazing. Then head back the way you came.
 
@@ -130,7 +136,11 @@ It's about 30K there and back, with about 1500 metres elevation gain. Long - it 
 
 ### Panorama Ridge (Cheakamus-Rubble Creek traverse) ###
 
-http://trailpeak.com/index.jsp?con=trail&val=784 (although this description omits the detour up Panorama Ridge, which adds 5K or so distance and 500 metres or so elevation gain - but it's worth it)
+[http://trailpeak.com/index.jsp?con=trail&val=784](http://trailpeak.com/index.jsp?con=trail&val=784)
+
+(although this description omits the detour up Panorama Ridge, which adds 5K or so distance and 500 metres or so elevation gain - but it's worth it)
+
+[https://www.flickr.com/photos/will_and_andrea/sets/72157631162069884/](https://www.flickr.com/photos/will_and_andrea/sets/72157631162069884/)
 
 This is a traverse from the Cheakamus Lake trailhead to the Rubble Creek trailhead, making a detour up Panorama Ridge on the way. The first half goes up Panorama Ridge from the Cheakamus Lake trailhead. The second half is the same as the return leg of the previous hike, back down to the Rubble Creek trailhead.
 
