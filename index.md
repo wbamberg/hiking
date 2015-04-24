@@ -1,5 +1,5 @@
 ---
-title: Whistler Hiking
+layout: default
 ---
 
 ## Some general stuff ##
