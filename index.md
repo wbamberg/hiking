@@ -136,9 +136,7 @@ It's about 30K there and back, with about 1500 metres elevation gain. Long - it 
 
 ### Panorama Ridge (Cheakamus-Rubble Creek traverse) ###
 
-[http://trailpeak.com/index.jsp?con=trail&val=784](http://trailpeak.com/index.jsp?con=trail&val=784)
-
-(although this description omits the detour up Panorama Ridge, which adds 5K or so distance and 500 metres or so elevation gain - but it's worth it)
+[http://trailpeak.com/index.jsp?con=trail&val=784](http://trailpeak.com/index.jsp?con=trail&val=784) - although this description omits the detour up Panorama Ridge, which adds 5K or so distance and 500 metres or so elevation gain - but it's worth it.
 
 [https://www.flickr.com/photos/will_and_andrea/sets/72157631162069884/](https://www.flickr.com/photos/will_and_andrea/sets/72157631162069884/)
 
