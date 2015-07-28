@@ -8,37 +8,43 @@ layout: default
 
 One of three North Shore hikes. Access is from the bottom of Grouse Mountain, and I'd want to hike up, but ride the gondola back down. Like all the North Shore mountains, steep, difficult, and lots of time in the trees.
 
-http://www.vancouvertrails.com/trails/crown-mountain/
-http://www.outdoorvancouver.ca/featured-trail-crown-mountain/
-http://www.straight.com/blogra/crown-mountain-hike-thrilling-north-shore-classic
+[http://www.vancouvertrails.com/trails/crown-mountain/](http://www.vancouvertrails.com/trails/crown-mountain/)
+
+[http://www.outdoorvancouver.ca/featured-trail-crown-mountain/](http://www.outdoorvancouver.ca/featured-trail-crown-mountain/)
+
+[http://www.straight.com/blogra/crown-mountain-hike-thrilling-north-shore-classic](http://www.straight.com/blogra/crown-mountain-hike-thrilling-north-shore-classic)
 
 ### Coliseum/Burwell ###
 
 Also a North Shore one. I'd choose to go up the Seymour side rather than Lynn Valley, which means a 9K bike ride in along the [Seymour Valley Trailway](http://www.letsgobiking.net/2010/05/5-seymour-forest-north-vancouver-bc.html). We could even bike from home, but that would make it pretty tough. Like all the North Shore mountains, steep, difficult, and lots of time in the trees.
 
-http://www.trailpeak.com/trail-Coliseum-Mountain-near-Vancouver-BC-1176
-http://vancouverhiatus.com/hiking/coliseum-mountain.html
+[http://www.trailpeak.com/trail-Coliseum-Mountain-near-Vancouver-BC-1176](http://www.trailpeak.com/trail-Coliseum-Mountain-near-Vancouver-BC-1176)
+
+[http://vancouverhiatus.com/hiking/coliseum-mountain.html](http://vancouverhiatus.com/hiking/coliseum-mountain.html)
 
 ### Brunswick Mountain ###
 
 The last North Shore one. The highest of the North Shore mountains.
 
-http://vancouverhiatus.com/hiking/brunswick-mountain.html
-http://www.trailpeak.com/trail-Brunswick-Mountain-near-Vancouver-BC-1153
+[http://vancouverhiatus.com/hiking/brunswick-mountain.html](http://vancouverhiatus.com/hiking/brunswick-mountain.html)
+
+[http://www.trailpeak.com/trail-Brunswick-Mountain-near-Vancouver-BC-1153](http://www.trailpeak.com/trail-Brunswick-Mountain-near-Vancouver-BC-1153)
 
 ### Mount Price ###
 
 This is the mountain on the other side of Garibaldi Lake from Panorama Ridge. Pluses: great views of the lake and surrounding mountains. Minuses: hiking up from the trailhead to Garibaldi Lake is boring and v crowded. Very long, but (I think) not too difficult.
 
-http://www.trailpeak.com/trail-Mount-Price-Garibaldi-near-Squamish-BC-6858
-http://www.livetrails.com/trails/Mount-Price-968.html
+[http://www.trailpeak.com/trail-Mount-Price-Garibaldi-near-Squamish-BC-6858](http://www.trailpeak.com/trail-Mount-Price-Garibaldi-near-Squamish-BC-6858)
+
+[http://www.livetrails.com/trails/Mount-Price-968.html](http://www.livetrails.com/trails/Mount-Price-968.html)
 
 ### Tomyhoi/Yellow Aster Butte ###
 
 Mountain in Washington. I think actually getting to the top of Tomyhoi would be too difficult, but getting close should be possible. Alternatively, Yellow Aster Butte is in the same area and is supposed to be nice.
 
-http://www.trailpeak.com/trail-Yellow-Aster-Butte-in-WA-USA-1586
-http://www.clubtread.com/routes/Route.aspx?Route=527
+[http://www.trailpeak.com/trail-Yellow-Aster-Butte-in-WA-USA-1586](http://www.trailpeak.com/trail-Yellow-Aster-Butte-in-WA-USA-1586)
+
+[http://www.clubtread.com/routes/Route.aspx?Route=527](http://www.clubtread.com/routes/Route.aspx?Route=527)
 
 Usually there's still snow in the alpine in June. This can mean a couple of things: (1) it's less enjoyable tramping through rotten snow than solid ground, and (2) for some hikes you might need additional safety equipment (ice axe and crampons) in the snow than you would otherwise.
 
