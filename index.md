@@ -75,7 +75,7 @@ This is in the Coquihalla, and is the furthest from Vancouver of the hikes in th
 
 ## Far away, 2WD accessible ##
 
-These hikes are all far enough from Vancouver (3 hours drive or more) to be not really easily doable in a day. Somehow we'd need to figure out a place to stay the night beforehand.
+These hikes/scrambles are all far enough from Vancouver (3 hours drive or more) to be not really easily doable in a day. Somehow we'd need to figure out a place to stay the night beforehand.
 
 They all look really amazing though.
 
