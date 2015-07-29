@@ -16,7 +16,7 @@ One of three North Shore hikes. Access is from the bottom of Grouse Mountain, an
 
 ### Coliseum & Burwell ###
 
-Also a North Shore one. I'd choose to go up the Seymour side rather than Lynn Valley, which means a 9K bike ride in along the [Seymour Valley Trailway](http://www.letsgobiking.net/2010/05/5-seymour-forest-north-vancouver-bc.html). We could even bike from home, but that would make it pretty tough. Like all the North Shore mountains, steep, difficult, and lots of time in the trees.
+Also a North Shore one. I'd choose to go up the Seymour side rather than Lynn Valley, which means a 9K bike ride in along the [Seymour Valley Trailway](http://www.letsgobiking.net/2010/05/5-seymour-forest-north-vancouver-bc.html). We could even bike from home, but that would make it pretty tough. Like all the North Shore mountains, steep, difficult, and lots of time in the trees. This would probably be my first choice among the three North Shore hikes.
 
 [http://www.trailpeak.com/trail-Coliseum-Mountain-near-Vancouver-BC-1176](http://www.trailpeak.com/trail-Coliseum-Mountain-near-Vancouver-BC-1176)<br/>
 [http://vancouverhiatus.com/hiking/coliseum-mountain.html](http://vancouverhiatus.com/hiking/coliseum-mountain.html)
@@ -46,7 +46,7 @@ There are lots of other great trails round there that could be worth a look.
 
 ### Brandywine Mountain ###
 
-Great hike. I've been here twice and failed to get to the top both times.
+Great hike. Not too difficult, amazing views, proper mountain. I've been here twice and failed to get to the top both times.
 
 [https://www.flickr.com/photos/will_and_andrea/sets/72157631033989550](https://www.flickr.com/photos/will_and_andrea/sets/72157631033989550)<br/>
 [http://www.trailpeak.com/trail-Brandywine-Mountain-near-Whistler-BC-527](http://www.trailpeak.com/trail-Brandywine-Mountain-near-Whistler-BC-527)<br/>
@@ -54,7 +54,7 @@ Great hike. I've been here twice and failed to get to the top both times.
 
 ### Sigurd Peak ###
 
-Up the Squamish River valley, great views of the Tantalus range. Looks like a very steep hike, difficult. It would be good to camp at the cabin the night before so as to get an early start.
+Up the Squamish River valley, great views of the Tantalus range. However, much of the hike is in the trees, from what I can tell (you start fairly near sea level). Looks like a very steep hike, difficult. It would be good to camp at the cabin the night before so as to get an early start.
 
 [http://www.clubtread.com/routes/Route.aspx?Route=1121](http://www.clubtread.com/routes/Route.aspx?Route=1121)<br/>
 [http://www.livetrails.com/trails/Sigurd-Peak-623.html](http://www.livetrails.com/trails/Sigurd-Peak-623.html)
@@ -81,13 +81,26 @@ They all look really amazing though.
 
 ### Locomotive Mountain ###
 
-From Semaphore Lakes, up the Hurley FSR. Semaphore Lakes is a really beautiful area, and Locomotive looks like a great mountain.
+From Semaphore Lakes, up the Hurley FSR. Semaphore Lakes is a [really beautiful area](https://www.flickr.com/photos/will_and_andrea/sets/72157631724200531), and Locomotive looks like a great mountain. It's such a lovely area that ideally you'd camp at the lakes, but it would be totally doable in a day from the road. However it's a solid 3 1/2 hours from Vancouver.
 
 [http://forums.clubtread.com/27-british-columbia/42993-dummies-guide-locomotive-mtn-semaphore-lakes.html](http://forums.clubtread.com/27-british-columbia/42993-dummies-guide-locomotive-mtn-semaphore-lakes.html)<br/>
 [http://www.livetrails.com/trails/Locomotive-Mountain-from-Semaphore-Lakes-2891.html](http://www.livetrails.com/trails/Locomotive-Mountain-from-Semaphore-Lakes-2891.html)<br/>
 
 ### Taylor and/or Tszil Mountains ###
 
+The first part of this is Joffre Lakes, then you just keep going at the upper lake.
+
+[http://forums.clubtread.com/27-british-columbia/58826-taylor-tszil-june-13-2015-a.html](http://forums.clubtread.com/27-british-columbia/58826-taylor-tszil-june-13-2015-a.html)<br/>
+[http://www.livetrails.com/trails/Tszil-Peak-from-Joffre-Lakes-Parking-Lots-201.html](http://www.livetrails.com/trails/Tszil-Peak-from-Joffre-Lakes-Parking-Lots-201.html)<br/>
+
 ### Downton Peak 8700/Statimcets ###
 
-### Twin Lakes ###
+I'm not at all familiar with this area, it looks beautiful though, with lots of alpine wandering.
+
+[http://forums.clubtread.com/27-british-columbia/43458-beginner-guide-statimcets-linus-downton-creek.html](http://forums.clubtread.com/27-british-columbia/43458-beginner-guide-statimcets-linus-downton-creek.html)<br/>
+
+### Haylmore-Melvin/Twin Lakes ###
+
+I'm also totally unfamiliar with this area, but it also looks amazing. Might be worth going while next year, when the wildflowers are still happening. This also looks like a great place to camp.
+
+[http://www.livetrails.com/trails/Haylmore-Melvin-Divide-7.html](http://www.livetrails.com/trails/Haylmore-Melvin-Divide-7.html)<br/>
