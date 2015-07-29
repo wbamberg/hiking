@@ -30,7 +30,7 @@ The last North Shore one. The highest of the North Shore mountains.
 
 ### Mount Price ###
 
-This is the mountain on the other side of Garibaldi Lake from Panorama Ridge. Pluses: great views of the lake and surrounding mountains. Minuses: hiking up from the trailhead to Garibaldi Lake is boring and v crowded. Very long, but (I think) not too difficult.
+This is the mountain on the other side of Garibaldi Lake from Panorama Ridge. Pluses: great views of the lake and surrounding mountains. Minuses: hiking up from the trailhead to Garibaldi Lake is boring and v crowded. Long, but (I think) not too difficult.
 
 [http://www.trailpeak.com/trail-Mount-Price-Garibaldi-near-Squamish-BC-6858](http://www.trailpeak.com/trail-Mount-Price-Garibaldi-near-Squamish-BC-6858)<br/>
 [http://www.livetrails.com/trails/Mount-Price-968.html](http://www.livetrails.com/trails/Mount-Price-968.html)
