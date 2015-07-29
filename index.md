@@ -59,12 +59,6 @@ Up the Squamish River valley, great views of the Tantalus range. However, much o
 [http://www.clubtread.com/routes/Route.aspx?Route=1121](http://www.clubtread.com/routes/Route.aspx?Route=1121)<br/>
 [http://www.livetrails.com/trails/Sigurd-Peak-623.html](http://www.livetrails.com/trails/Sigurd-Peak-623.html)
 
-### Gentian Peak ###
-
-This is a bit exploratory. It's the next mountain along from Panorama Ridge, above Garibaldi Lake. Access is from [Helm Lake](http://www.livetrails.com/trails/Helm-Lake-17.html). I think I know the way there, but there's no trail. Fun! Ultimately I'd like to hike Castle Towers, but that can't be done in a day.
-
-[http://forums.clubtread.com/27-british-columbia/30224-corrie-gentian-peaks-helm-creek-trail-jul-11-09-a.html](http://forums.clubtread.com/27-british-columbia/30224-corrie-gentian-peaks-helm-creek-trail-jul-11-09-a.html) (I don't have a lot of links for this one, the hike linked here is not quite the same.)
-
 ### Needle Peak ###
 
 This is in the Coquihalla, and is the furthest from Vancouver of the hikes in this list. Because it's just off the highway, though, it is doable in a day - the drive is about 2 1/4 hours. It's supposed to be really nice, but in general I usually like the Coast mountains better than the Coquihalla.
