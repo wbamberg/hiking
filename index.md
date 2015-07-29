@@ -67,7 +67,7 @@ This is a bit exploratory. It's the next mountain along from Panorama Ridge, abo
 
 ### Needle Peak ###
 
-This is in the Coquihalla, and is the furthest from Vancouver. It's probably 2 1/4 hours drive from Van. It's supposed to be really nice, but in general I usually like the Coast mountains better than the Coquihalla.
+This is in the Coquihalla, and is the furthest from Vancouver of the hikes in this list. Because it's just off the highway, though, it is doable in a day - the drive is about 2 1/4 hours. It's supposed to be really nice, but in general I usually like the Coast mountains better than the Coquihalla.
 
 [http://www.livetrails.com/trails/Needle-Peak-98.html](http://www.livetrails.com/trails/Needle-Peak-98.html)<br/>
 [http://www.clubtread.com/routes/Route.aspx?Route=1](http://www.clubtread.com/routes/Route.aspx?Route=1)<br/>
@@ -75,7 +75,7 @@ This is in the Coquihalla, and is the furthest from Vancouver. It's probably 2 1
 
 ## Far away, 2WD accessible ##
 
-These hikes are all far enough from Vancouver (about 3 hours drive or more) to be not really easily doable in a day. Somehow we'd need to figure out a place to stay the night beforehand.
+These hikes are all far enough from Vancouver (3 hours drive or more) to be not really easily doable in a day. Somehow we'd need to figure out a place to stay the night beforehand.
 
 They all look really amazing though.
 
