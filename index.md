@@ -4,7 +4,7 @@ layout: default
 
 ## Close, 2WD accessible ##
 
-These hikes/scrambles are all within a couple of hours drive of Vancouver and are 2WD accessible.
+Thee hikes/scrambles are all within a couple of hours drive of Vancouver and are 2WD accessible.
 
 ### Crown Mountain ###
 
