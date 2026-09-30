@@ -5,12 +5,13 @@ const monthRow = document.createElement("div");
 monthRow.classList.add("month-row");
 
 const monthBox = document.createElement("div");
-monthBox.classList.add("month");
+monthBox.classList.add("year-value");
 monthRow.appendChild(monthBox);
 
 for (const name of monthNames) {
 	const monthBox = document.createElement("div");
-	monthBox.classList.add("month");
+	monthBox.classList.add("box");
+	monthBox.classList.add("month-value");
 	monthBox.textContent = name;
 	monthRow.appendChild(monthBox);
 }
@@ -29,9 +30,10 @@ for (const year of data) {
 
 	for (const hikes of year.months.slice(4, 10)) {
 		const hikesBox = document.createElement("div");
-		hikesBox.classList.add("month");
+		hikesBox.classList.add("box");
 		for (const hike of hikes) {
 			const hikeBox = document.createElement("div");
+			hikeBox.classList.add("box");
 			hikeBox.classList.add("hike-box");
 			hikeBox.setAttribute("data-with", hike.with);
 			hikeBox.textContent = hike.name;

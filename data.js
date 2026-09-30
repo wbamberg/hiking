@@ -24,7 +24,7 @@ export const data = [
 			[],
 			[],
 			[],
-			[{ name: "Panorama", with: "Wanderung" }],
+			[{ name: "Panorama Ridge", with: "Wanderung" }],
 			[],
 			[],
 			[],
@@ -46,7 +46,7 @@ export const data = [
 			],
 			[
 				{ name: "Brandywine", with: "Other", completed: false },
-				{ name: "Panorama", with: "Wanderung" },
+				{ name: "Panorama Ridge", with: "Wanderung" },
 			],
 			[
 				{ name: "Mount Rohr", with: "Other" },
@@ -90,7 +90,7 @@ export const data = [
 			[],
 			[],
 			[],
-			[{ name: "Seymour", with: "Other" }],
+			[{ name: "Mount Seymour", with: "Other" }],
 			[],
 			[],
 			[],
@@ -191,7 +191,7 @@ export const data = [
 			[{ name: "Hanes Valley", with: "Other" }],
 			[
 				{ name: "Coliseum", with: "Wanderung" },
-				{ name: "Panorama", with: "Eric" },
+				{ name: "Panorama Ridge", with: "Eric" },
 			],
 			[{ name: "Watersprite", with: "Eric" }],
 			[],
@@ -267,7 +267,7 @@ export const data = [
 			[{ name: "Zupjok/Llama/Alpaca", with: "BCMC" }],
 			[{ name: "Flora Peak", with: "Eric" }],
 			[{ name: "Brandywine", with: "BCMC", completed: false }],
-			[{ name: "Vantage", with: "Wanderung" }],
+			[{ name: "Vantage Peak", with: "Wanderung" }],
 			[],
 			[],
 			[],
@@ -305,7 +305,7 @@ export const data = [
 			[],
 			[{ name: "Burwell", with: "Wanderung" }],
 			[
-				{ name: "Seymour", with: "Greta" },
+				{ name: "Mount Seymour", with: "Greta" },
 				{ name: "Harvey", with: "Wanderung" },
 				{ name: "Whirlwind", with: "Other", completed: false },
 			],

@@ -9,13 +9,19 @@ div {
 	width: 100%;
 }
 
-.year-value,
-.month,
-.hike-box {
+.box {
 	background-color: whitesmoke;
 	margin: 0.1rem;
-
 	width: 100%;
+}
+
+.year-value,
+.month-value {
+	background-color: #cccccc;
+}
+
+.year-value {
+	min-width: 5rem;
 }
 
 .hike-box[data-with="Wanderung"] {
