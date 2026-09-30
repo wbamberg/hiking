@@ -1,0 +1,39 @@
+div {
+	font-family: "Gill Sans", sans-serif;
+}
+
+.month-row,
+.year {
+	display: flex;
+	padding: 0.2rem;
+	width: 100%;
+}
+
+.year-value,
+.month,
+.hike-box {
+	background-color: whitesmoke;
+	margin: 0.1rem;
+
+	width: 100%;
+}
+
+.hike-box[data-with="Wanderung"] {
+	background-color: #ffc0cb;
+}
+
+.hike-box[data-with="BCMC"] {
+	background-color: #b3ffe0;
+}
+
+.hike-box[data-with="Eric"] {
+	background-color: #ccccff;
+}
+
+.hike-box[data-with="Greta"] {
+	background-color: #ffffcc;
+}
+
+.hike-box[data-with="Other"] {
+	background-color: #ffccb3;
+}
